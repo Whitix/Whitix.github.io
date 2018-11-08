@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "StarCard Game",
+"productName": "BugWars",
 "dataUrl": "build.data.unityweb",
 "asmCodeUrl": "build.asm.code.unityweb",
 "asmMemoryUrl": "build.asm.memory.unityweb",
